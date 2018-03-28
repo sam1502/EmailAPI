@@ -1,7 +1,7 @@
 # EmailAPI
 
 
-You can download the project and then ypou'll have to put your emailID and password in the "applciaiton.properties" file in the resource folder.
+You can download the project and then you'll have to put your emailID and password in the "applciaiton.properties" file under the resource folder.
 You'll also have to allow less secure apps on your gamil account.
 
 
