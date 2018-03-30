@@ -5,7 +5,7 @@ jobs:
       # specify the version you desire here
       - image: circleci/openjdk:8-jdk
       
-      -mvn clea install
+      -mvn clean install
 
       - run: mvn dependency:go-offline
 
